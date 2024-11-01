@@ -1,0 +1,10 @@
+.body {
+    margin: 20px 2.5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5vw;
+}
+
+.body img {
+    width: 40vw;
+}

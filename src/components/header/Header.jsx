@@ -11,7 +11,7 @@ const Header = () => {
       <input type="text" className='search' />
       <img src={star} className="star" alt="star" />
       <div className='cart'>
-        <span>0</span>
+        <span>00</span>
         <img  src={cart} />
       </div>
 
